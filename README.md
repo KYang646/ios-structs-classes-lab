@@ -130,6 +130,10 @@ balance -= amount
 
 Does this code work? Why or why not?
 
+```
+The left side is not mutable
+```
+
 Fix the `BankAccount` struct so it does work.
 
 Given the code below (which should incorporate any fixes you made):
